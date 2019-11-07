@@ -1,0 +1,23 @@
+{
+  "name": "@q9adam/spaces-client",
+  "version": "1.0.1",
+  "description": "Synchronized data spaces.",
+  "main": "spaces-client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/technomada/spaces-client.git"
+  },
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/technomada/spaces-client/issues"
+  },
+  "homepage": "https://github.com/technomada/spaces-client#readme",
+  "directories": {
+    "test": "test"
+  }
+}
